@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithik! Great to see you here!
-<img width="100%" height="auto" src="Avatar2.png"/></a></h1>
+<img width="60%" height="auto" src="Avatar2.png"/></a></h1>
 <h3 align="center">Currently, I'm an intern at Riskonnect, contributing to the R&D team as a software developer.</h3>
 
 ## 😁 About Me
